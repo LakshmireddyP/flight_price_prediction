@@ -1,5 +1,7 @@
 pandas
-flask
+Flask
 sklearn
 matplotlib
 seaborn
+flask_cors
+gunicorn
