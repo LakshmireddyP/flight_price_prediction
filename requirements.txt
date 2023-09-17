@@ -1,6 +1,6 @@
 pandas
 Flask
-sklearn
+scikit-learn
 matplotlib
 seaborn
 flask_cors
